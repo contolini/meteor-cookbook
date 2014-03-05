@@ -38,7 +38,7 @@ Here are some general tips and advice on writing Meteor applications.
 - Create a ``/packages`` directory in the root directory, and refactor code out of your application into reusable modular packages.  If you're not familiar with maintaining larger, modularized applications, the general feel of it will be that of moving code between files, and moving files between directories.  You can use packages to create javascript namespaces and dependencies.
 
 #### Everything is a List    
-- Well, technically, everything is a string.  And those strings are parsed up into lists.  And Node.js is based on Javascript, which is based on ActionScript, which is based on Schema, which is based on Lisp, which was stands for "List Processor".  Dig deep enough, and Javascript is all about lists.  Objects are just lists.  Arrays are lists.  Regexes are... well, regexes are string masking/parsing functions.  But same basic thing.  
+- Well, technically, everything is a string.  And those strings are parsed up into lists.  And Node.js is based on Javascript, which is based on ActionScript, which is based on Schema, which is based on Lisp, which stands for "List Processor".  Dig deep enough, and Javascript is all about lists.  Objects are just lists.  Arrays are lists.  Regexes are... well, regexes are string masking/parsing functions.  But same basic thing.  
 
     ![image](http://imgs.xkcd.com/comics/lisp.jpg "Test")  
 
