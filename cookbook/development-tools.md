@@ -50,7 +50,7 @@ export http_proxy=http://your.proxy.server:port/
 curl https://install.meteor.com | sh
 ````
 
-Also, watch follow this issue:  
+Also, follow this issue:  
 https://github.com/meteor/meteor/pull/920
 
 
