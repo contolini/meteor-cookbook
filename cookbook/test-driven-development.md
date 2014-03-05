@@ -1,4 +1,3 @@
-------------------------------------------------------------------
 # Test Driven Development
 
 For an introduction to different types of tests (unit, integration, functional, acceptance, regression, smoke tests), see these StackOverflow questions: [unit/integration/functional/acceptance](http://stackoverflow.com/questions/4904096/whats-the-difference-between-unit-functional-acceptance-and-integration-test), [integration/smoke/regression](http://stackoverflow.com/questions/520064/what-is-unit-test-integration-test-smoke-test-regression-test?lq=1).
@@ -22,7 +21,7 @@ Meteor's [undocumented](https://www.meteor.com/blog/2013/04/04/meteor-060-brand-
 Basic unit test runner and HTML reporter, that can be installed as a package.  
 [Atmosphere](https://atmosphere.meteor.com/package/mocha-web) / [GitHub](https://github.com/mad-eye/meteor-mocha-web)
 
-### [RDT](http://rtd.xolv.io) With Selenium, Mocha, Jasmine, and Istanbul
+### [RTD](http://rtd.xolv.io) With Selenium, Mocha, Jasmine, and Istanbul
 In-depth unit testing and acceptance testing; relies on a command line interface, and requires the app code to live in an `app` directory. [Inpsired by](http://blog.madeye.io/2013/02/testing-meteor-here-at-madeye-were-big.html?showComment=1364314050448#c7796997551340499047) Mocha-Web.  
 
 * https://github.com/xolvio/meteor-rtd-example-project  
